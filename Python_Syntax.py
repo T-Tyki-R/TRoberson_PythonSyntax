@@ -40,7 +40,24 @@ print(type(variable_d))
 
 #4.1 Grocery Store Math
 
-
+bread, eggs, bacon = 1.39, 6.00, 6.99
+totalPrice = bread + eggs + bacon
+print('${:,.2f}'.format(totalPrice)) #formatting the float into currency
 
 #4.2 Bank Interest
 
+savingsAmount = 500
+INTEREST_RATE = 0.07
+interestAmount = savingsAmount * INTEREST_RATE # <-- 35
+savingsAmount += interestAmount
+print('${:,.2f}'.format(savingsAmount))
+
+# 5.1
+
+
+
+#6.1
+
+
+
+#6.2
