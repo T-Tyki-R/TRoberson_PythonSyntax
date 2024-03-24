@@ -26,7 +26,21 @@ userAge = 25
 user_location = "New York"
 MAX_LIMIT = 1000
 
-#3.1 Your Mood Today
+#3.1 Code Correction
+
+variable_a = "Hello, World!"
+variable_b = 23
+variable_c = 3.14
+variable_d = True
+
+print(type(variable_a))
+print(type(variable_b))
+print(type(variable_c))
+print(type(variable_d))
+
+#4.1 Grocery Store Math
 
 
+
+#4.2 Bank Interest
 
