@@ -52,12 +52,21 @@ interestAmount = savingsAmount * INTEREST_RATE # <-- 35
 savingsAmount += interestAmount
 print('${:,.2f}'.format(savingsAmount))
 
-# 5.1
+#5.1 Value Swapping
+
+num1 = 10
+num2 = 5
+
+num1 = 5
+num2 = 10
+
+if num1 == 10 and num2 == 5:
+    print("It never changed...")
+else:
+    print("It was swapped!")
+
+#6.1 Validating Calculations
 
 
 
-#6.1
-
-
-
-#6.2
+#6.2 Mix & Match
