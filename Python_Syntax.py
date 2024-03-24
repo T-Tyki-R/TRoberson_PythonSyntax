@@ -67,6 +67,17 @@ else:
 
 #6.1 Validating Calculations
 
+mathProblem1 = 20 + 9 ** 4 - 8
+mathProblem2 = 20 + 9 ** (4 - 8)
 
+if mathProblem1 == mathProblem2:
+    print("They're equal")
+else:
+    (print("The answers are different"));
 
 #6.2 Mix & Match
+
+if (2 + 8) ** 2 == 100 and -50 + 30 * 5 == 100:
+    print("They're the same!")
+else: 
+    print("They're different")
