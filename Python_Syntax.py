@@ -17,5 +17,16 @@ if userAnswer == "happy":
 elif userAnswer == "sad":
     print("I hope your day gets better!")
 else:
-    print("... Oooookay then!")
+    print("... Oooookay then!");
+
+#2.1 Code Correction
+
+PI_VALUE = 3.14
+userAge = 25
+user_location = "New York"
+MAX_LIMIT = 1000
+
+#3.1 Your Mood Today
+
+
 
